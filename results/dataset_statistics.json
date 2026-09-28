@@ -1,0 +1,29 @@
+{
+  "validation": {
+    "instances": 2000,
+    "tokens": 14317,
+    "avg tokens/sentence": 7.16,
+    "median length": 6,
+    "max length": 47,
+    "entities": 2310,
+    "entities/sentence": 1.16
+  },
+  "test": {
+    "instances": 10000,
+    "tokens": 72188,
+    "avg tokens/sentence": 7.22,
+    "median length": 6,
+    "max length": 148,
+    "entities": 11578,
+    "entities/sentence": 1.16
+  },
+  "train": {
+    "instances": 10000,
+    "tokens": 71749,
+    "avg tokens/sentence": 7.17,
+    "median length": 6,
+    "max length": 47,
+    "entities": 11508,
+    "entities/sentence": 1.15
+  }
+}

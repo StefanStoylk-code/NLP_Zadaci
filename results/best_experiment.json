@@ -1,0 +1,16 @@
+{
+  "best_experiment": "bs_8",
+  "learning_rate": 2e-05,
+  "per_device_train_batch_size": 8,
+  "num_train_epochs": 3,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "lr_scheduler_type": "linear",
+  "best_epoch": 3,
+  "val_loss": 0.16532540321350098,
+  "val_precision": 0.9050470487596236,
+  "val_recall": 0.9160173160173161,
+  "val_f1": 0.9104991394148022,
+  "val_accuracy": 0.9652666154168705,
+  "train_time_min": 2.204880452156067
+}
